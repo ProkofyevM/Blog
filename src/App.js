@@ -6,7 +6,7 @@ const Div = styled.div`
 	text-align: center;
 `
 
-const App = () => {
+export const App = () => {
 	return (
 		<Div>
 			<i className="fa fa-grav"></i>
@@ -15,4 +15,4 @@ const App = () => {
 	)
 }
 
-export default App
+    
